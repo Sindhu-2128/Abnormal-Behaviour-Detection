@@ -75,3 +75,12 @@ The system successfully distinguishes abnormal behavior patterns
 
 Suitable for real-time surveillance and public safety monitoring
 
+## Normal Behaviour
+<img width="2524" height="1453" alt="Screenshot 2025-11-13 121526" src="https://github.com/user-attachments/assets/39c547b8-d8b7-40d4-a870-8607012dcf71" />
+
+## Abnormal Behaviour
+<img width="1930" height="801" alt="image" src="https://github.com/user-attachments/assets/f9c43d31-f99a-4043-aad9-d4076f4141e1" />
+
+
+
+
